@@ -1,0 +1,16 @@
+com\energia\api\controller\EnergyDataController.class
+com\energia\api\dto\PercentElectricalTotalDTO.class
+com\energia\api\repository\UserRepository.class
+com\energia\api\ApiApplication.class
+com\energia\api\modelo\DimEntity.class
+com\energia\api\modelo\User.class
+com\energia\api\repository\FactEnergyDataRepository.class
+com\energia\api\dto\TrendEnergyDTO.class
+com\energia\api\modelo\FactEnergyData.class
+com\energia\api\config\SecurityConfig.class
+com\energia\api\service\EnergyDataService.class
+com\energia\api\modelo\DimEnergyType.class
+com\energia\api\dto\TotalProductionEnergyDTO.class
+com\energia\api\dto\TopEnergyYearDTO.class
+com\energia\api\service\UserService.class
+com\energia\api\dto\ParticipationElectricalConsumptionDTO.class
